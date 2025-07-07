@@ -1,3 +1,5 @@
+// GitHub URL: https://github.com/NikkiDunlap/cs81-module4b-mydataexplorer
+
 // Week Data: Tracking my real or realistic habits over 7 days
 const weekData = 
 [
