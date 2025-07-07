@@ -1,11 +1,12 @@
 Were your predictions right?
-Mostly yes. I expected Wednesday to have the most screen time and Thursday to have the best focus, which matched the data.
+Yes, most of my predictions were accurate. I expected Wednesday to have the most screen time, and it did. I also thought Thursday would be my most focused day, which matched the data.
 
-What surprised you? 
-I thought caffeine would boost my focus, but it looks like the days I had less caffeine were actually better for focus.
+What surprised you?
+What surprised me was how caffeine didn’t seem to improve focus. I assumed higher caffeine intake would correlate with better focus, but the days with lower or no caffeine actually had stronger focus levels.
 
-What was tricky or rewarding? 
-The most rewarding part was seeing real patterns in the data I created. Correlating caffeine to focus took a bit of logic to set up, but it helped me understand how to work with arrays and averages.
+What was tricky or rewarding?
+The most challenging part was figuring out how to compare caffeine intake to focus levels in a meaningful way. Creating separate arrays and averaging the focus scores took some thinking, but it felt rewarding once I got it working and saw a clear result.
 
 How did using your own data change things?
-It made the assignment feel more personal and engaging. I paid more attention to how I structured the data because it felt like it represented my real habits.
+Using my own data made the assignment more engaging. It felt less like a coding drill and more like exploring actual patterns in my habits. It helped me connect what I was learning to something real, which made it easier to stay focused.
+
